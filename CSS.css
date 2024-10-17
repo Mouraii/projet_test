@@ -1,0 +1,18 @@
+h1 {
+    color : darkred
+    
+}
+
+.textcls {
+    color : lightpink
+
+}
+
+body {
+    background-color: rgb(224,224,224,0.6); 
+  background: url('monkey.jpg'),url('hide_thepain.jpg');
+  background-repeat: no-repeat, repeat;
+  background-position: right center, left center;
+  
+
+}
